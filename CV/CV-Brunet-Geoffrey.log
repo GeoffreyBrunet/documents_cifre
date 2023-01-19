@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.10)  17 JAN 2023 10:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.10)  19 JAN 2023 14:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/geoffreybrunet/Documents/CV/CV/CV-Brunet-Geoffrey.tex
-(/Users/geoffreybrunet/Documents/CV/CV/CV-Brunet-Geoffrey.tex
+**/Users/geoffreybrunet/Documents/documents_cifre/CV/CV-Brunet-Geoffrey.tex
+(/Users/geoffreybrunet/Documents/documents_cifre/CV/CV-Brunet-Geoffrey.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2022-12-17> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -379,13 +379,18 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 35
 (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 []\T1/lmr/m/n/10 Bachelor Con-cep-teur / Développeur
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 []\T1/lmr/m/n/10 Bac pro-fes-sion-nel sys-tèmes élec-tron-iques
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]\T1/lmr/m/n/10 Graphiques & pre-sen-ta-tions: Mat-plotlib,
  []
 
 [1
@@ -395,18 +400,18 @@ Package rerunfilecheck Info: File `CV-Brunet-Geoffrey.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8542 strings out of 476093
- 137161 string characters out of 5791585
+ 8544 strings out of 476093
+ 137223 string characters out of 5791585
  1869793 words of memory out of 5000000
- 28823 multiletter control sequences out of 15000+600000
- 533731 words of font info for 48 fonts, out of 8000000 for 9000
+ 28824 multiletter control sequences out of 15000+600000
+ 536726 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,332b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on CV-Brunet-Geoffrey.pdf (1 page, 90382 bytes).
+ 72i,11n,77p,345b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on CV-Brunet-Geoffrey.pdf (1 page, 93656 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  8 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
